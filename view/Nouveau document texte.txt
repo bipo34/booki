@@ -1,0 +1,2 @@
+l'affiche qui ressort les données 
+l'affichage des requete sql . 

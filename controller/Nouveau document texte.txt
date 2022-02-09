@@ -1,0 +1,32 @@
+tous ce que l'on veut sortir de la base de données . 
+que des requetes sql 
+ca veut dire que dans la base de données on prend tous ce que l'on as 
+AVEC dollars requetes ca va au connecter au php my admin 
+AVEC Dollars conn 
+on appel monter view pour appeler les données . 
+dans activites tans que la requete est connecter on affiche les données . 
+avec echo op on va chercher les images comme vieux port ect . 
+
+
+
+dans l'index on utilise la ligne *92 pour afficher le php .
+dans hosting on affiche que les 6 premier avec la ligne 5 
+
+php echo op on appel l'image demander la notation et le prix 
+en gros on appel une box 
+
+vue que on dois recherche on dois mettre l'id de la ville ou on est 
+
+pour le rendre responsive  je devais changer la taille de l'ecran pour la remettre en responsive 
+Et enlever la taille fix de la class most  popular . 
+
+
+on as galerer sur la taille des images pour ca que tous ne l'ai pas on a essaie de faire un mini responsive
+
+pour le footer j'ai trouver un grid de template . 
+que j'ai trouver en video pour mieux comprendre . 
+on  lui donne une taille et ca s'ajuste par rapport 
+a la taille de l'ecran  
+https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit
+
+nous avons mis un liens font dans la ligne 10 de l'index pour les petites icon appeler i 
